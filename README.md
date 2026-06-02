@@ -1,7 +1,7 @@
 
-# Python course exercises 
 
-[Beginner](/Python/Python-course-exercises/beginner/)
-[Advanced](/Python/Python-course-exercises/advanced/)
-[Projects](/Python/Python-course-exercises/projects/)
+# Useful resources for learning Python
 
+1. KodeKloud 
+
+[Python-Programming-labs](https://kodekloud.com/studio/labs/python)
