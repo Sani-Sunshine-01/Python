@@ -115,6 +115,13 @@ print(index)
 
 
 #GET THE LAST CHARACTER OF STRING
+''' Using ---the word variable.
+
+Use the built-in len() function to determine the number of characters in the word string.
+
+Use the length to find the last character of the string. Store the last character in the last_char variable.
+
+Use print() to display last_char on the screen.'''
 
 word = "Programming"
 
@@ -124,3 +131,5 @@ index = length - 1
 last_char = word[index]
 
 print(last_char)
+
+
